@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artemis Munoz</title>
-    <link>https://artemismunoz.com/</link>
+    <link>https://artemismunoz-develop.s3-ap-southeast-2.amazonaws.com/</link>
     <description>Recent content on Artemis Munoz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>© Artemis Munoz</copyright>
     
-	<atom:link href="https://artemismunoz.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://artemismunoz-develop.s3-ap-southeast-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
