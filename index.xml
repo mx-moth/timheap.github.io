@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Artemis Munoz</title>
-    <link>https://artemismunoz-develop.s3-ap-southeast-2.amazonaws.com/</link>
-    <description>Recent content on Artemis Munoz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
-    <copyright>© Artemis Munoz</copyright>
-    
-	<atom:link href="https://artemismunoz-develop.s3-ap-southeast-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo automatic build test</title><link>https://timheap.github.io/</link><description>Recent content on Hugo automatic build test</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© {year}</copyright><atom:link href="https://timheap.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
